@@ -351,11 +351,15 @@ Registrar ou corrigir divergências.
 
 ## TASK-028 — Publicar na Vercel
 
+- [x] Aplicação publicada em https://task-app-rose-seven.vercel.app/.
+
 Realizar deploy da versão validada.
 
 ---
 
 ## TASK-029 — Validar produção
+
+- [x] Criação, persistência após reload e viewport mobile validados em produção.
 
 Executar manualmente o fluxo principal na versão publicada.
 

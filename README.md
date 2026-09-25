@@ -170,9 +170,7 @@ npx playwright test
 
 ## Deploy
 
-Deploy planejado na Vercel.
-
-O link da aplicação será adicionado após a publicação.
+Publicado na Vercel: [task-app-rose-seven.vercel.app](https://task-app-rose-seven.vercel.app/).
 
 ## Aprendizados
 
@@ -194,6 +192,4 @@ Este projeto foi utilizado para praticar:
 
 ## Status
 
-**MVP implementado e validado localmente.**
-
-Próxima etapa: deploy na Vercel.
+**MVP implementado, testado e publicado em produção.**
